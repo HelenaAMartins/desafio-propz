@@ -41,10 +41,46 @@
     "marca": "Giorgio Armani",
     "quantidade": "100ml",
     "price": {
-      "1x": "499.90",
+      "1x": "499,90",
       "10x": "49,99",
       "15x": "38,07"
     },
     "link": "https://www.carrefour.com.br/acqua-di-gio-eau-de-toilette-100ml-perfume-masculino-importado-mp927159368/p"
+  },
+  {
+    "img": "produto-legend-red.png",
+    "nome": "Perfume Legend Red Masculino",
+    "marca": "Montblanc",
+    "quantidade": "100ml",
+    "price": {
+      "1x": "388,22",
+      "10x": "38,83",
+      "15x": "28,47"
+    },
+    "link": "https://www.carrefour.com.br/perfume-montblanc-legend-red-edp-masculino-100ml-importado-mp926636064/p"
+  },
+  {
+    "img": "produto-tommy.png",
+    "nome": "Tommy Hilfiger Perfume Masculino Eau De Toilette",
+    "marca": "Tommy Hilfiger",
+    "quantidade": "100ml",
+    "price": {
+      "1x": "436,80",
+      "10x": "43,68",
+      "15x": "32,03"
+    },
+    "link": "https://www.carrefour.com.br/tommy-tommy-hilfiger-perfume-masculino-eau-de-toilette-100ml-importado-mp933684681/p"
+  },
+  {
+    "img": "produto-lancome.png",
+    "nome": "La Vie Est Belle Eau De Parfum",
+    "marca": "Lancôme",
+    "quantidade": "30ml",
+    "price": {
+      "1x": "326,40",
+      "10x": "32,64",
+      "15x": "23,94"
+    },
+    "link": "https://www.carrefour.com.br/la-vie-est-belle-eau-de-parfum-30ml-perfume-feminino-importado-mp926346899/p"
   }
 ]
