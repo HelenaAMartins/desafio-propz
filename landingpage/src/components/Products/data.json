@@ -1,0 +1,50 @@
+[
+  {
+    "img": "produto-phantom.png",
+    "nome": "Phantom Eau De Toilette",
+    "marca": "Phantom",
+    "quantidade": "100ml",
+    "price": {
+      "1x": "672,00",
+      "10x": "67,20",
+      "15x": "49,28"
+    },
+    "link": "https://www.carrefour.com.br/phantom-eau-de-toilette-100ml-perfume-masculino-importado-mp927159495/p"
+  },
+  {
+    "img": "produto-si.png",
+    "nome": "Sì Eau De Parfum",
+    "marca": "Giorgio Armani",
+    "quantidade": "100ml",
+    "price": {
+      "1x": "694.50",
+      "10x": "69,45",
+      "15x": "50,93"
+    },
+    "link": "https://www.carrefour.com.br/si-eau-de-parfum-100ml-giorgio-armani-perfume-feminino-importado-mp928300018/p"
+  },
+  {
+    "img": "produto-burberry.png",
+    "nome": "My Burberry Eau De Parfum",
+    "marca": "Burberry",
+    "quantidade": "90ml",
+    "price": {
+      "1x": "640,00",
+      "10x": "64,00",
+      "15x": "46,94"
+    },
+    "link": "https://www.carrefour.com.br/my-burberry-burberry-perfume-feminino-eau-de-parfum-90ml-importado-mp933516685/p"
+  },
+  {
+    "img": "produto-aguaGio.png",
+    "nome": "Acqua Di Gio Eau De Toilette",
+    "marca": "Giorgio Armani",
+    "quantidade": "100ml",
+    "price": {
+      "1x": "499.90",
+      "10x": "49,99",
+      "15x": "38,07"
+    },
+    "link": "https://www.carrefour.com.br/acqua-di-gio-eau-de-toilette-100ml-perfume-masculino-importado-mp927159368/p"
+  }
+]
