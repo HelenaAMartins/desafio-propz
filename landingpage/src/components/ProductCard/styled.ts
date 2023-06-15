@@ -21,11 +21,14 @@ export const HeaderInfo = styled.div`
   display: flex;
   justify-content: space-between;
   border-bottom: 2px solid #000;
+  min-height: 80px;
 `;
 
 export const Title = styled.div`
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
 `;
 export const ProductName = styled.h4``;
 
